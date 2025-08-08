@@ -1,3 +1,3 @@
 # ImersaoDadosAlura
 
-Aulas da imersão de Dados com Python da Alura.
+Dashboard feito durante as aulas da Imersão Alura de Dados em Python
