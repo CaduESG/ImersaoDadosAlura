@@ -1,3 +1,3 @@
 # ImersaoDadosAlura
 
-Notebook com as aulas da imersão de dados com python da Alura.
+Aulas da imersão de Dados com Python da Alura.
